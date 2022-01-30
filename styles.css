@@ -1,3 +1,9 @@
-html{
-    background-color: black;
+html.htm{
+    background-color: rgb(58, 58, 58);
+}
+
+rect.rectangle{
+    overflow-x: 100px;
+    overflow-y: 200px;
+    background-color: white;
 }
